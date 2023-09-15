@@ -5,16 +5,11 @@
 # 프로젝트 구조
 
 
-# ERD
+## ERD
 ![ERD](docs/img/erd.png)
 
-# 사용 기술(Tech Stack)
-- SpringBoot
-- Java
-- MySQL
-- JPA
   
-# 프로젝트 기능 및 설계
+## 프로젝트 기능 및 설계
 - 회원가입 기능
   - 사용자는 회원가입을 할 수 있다. 일반적으로 모든 사용자는 회원가입시 USER 권한 (일반 권한)을 지닌다. 
   - 회원가입시 아이디와 패스워드를 입력받으며, 아이디는 unique 해야한다. 
@@ -44,3 +39,17 @@
 - 댓글 작성 기능
   - 로그인한 사용자는 권한에 관계 없이 댓글을 작성할 수 있다. 
   - 사용자는 댓글 내용(텍스트)를 작성할 수 있다.
+ 
+
+
+## Trouble Shooting
+[go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
+
+
+## 사용 기술(Tech Stack)
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
