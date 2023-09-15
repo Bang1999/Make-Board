@@ -43,7 +43,7 @@
 
 
 ## Trouble Shooting
-[go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
+[go to the trouble shooting section](docs/TROUBLE_SHOOTING.md)
 
 
 ## 사용 기술(Tech Stack)
