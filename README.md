@@ -6,7 +6,7 @@
 
 
 # ERD
-![ERD](doc/img/erd.png)
+![ERD](docs/img/erd.png)
 
 # 사용 기술(Tech Stack)
 - SpringBoot
