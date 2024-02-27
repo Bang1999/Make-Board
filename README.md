@@ -53,3 +53,6 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+## Reference
+[게시판 무작정 따라하기](https://youtu.be/frI5CoZe-vE?si=LRnFF4cSeU62hB0X)
